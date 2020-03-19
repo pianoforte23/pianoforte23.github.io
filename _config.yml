@@ -9,19 +9,19 @@ exclude:
   - "/vendor/"
 
 # Site settings
-title: Centrarium
-subtitle: "A simple yet classy theme for your Jekyll website or blog"
-email: blcentra@gmail.com
-name: Ben Centra
+title: 끄적끄적 딥러닝
+subtitle: "by 피아노포르테"
+email: pianoforte23@gmail.com
+name: Yongsu Kim
 description: >
-  A simple yet classy theme for your Jekyll website or blog.
+  끄적여보는 딥러닝
 # Base URL of site (i.e. /blog). It should always start with a slash,
 # and never end with a slash. Set it to a blank value if hosting at the
 # root of your server.
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "https://pianoforte23.github.io/" # the base hostname & protocol for your site
-cover: "/assets/header_image.jpg"
-logo: "/assets/logo.png"
+cover: "/assets/header_piano.jpg"
+logo: "/assets/pianoforte_icon.png"
 
 # Build settings
 markdown: kramdown
